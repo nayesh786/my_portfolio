@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Brokerage Audit",
+    "desc": "Motilal Oswal Financial Services – Brokerage Audit of MF Distributors",
+    "image": "brokerage_audit",
+    "bg": "https://images.unsplash.com/photo-1573164713988-8665fc963095?auto=format&fit=crop&w=900&q=60",
+    "category": "audit",
+    "links": {
+      "view": "https://www.investallign.in/motilal-oswal-review/"
+    }
+  },
+  {
+    "name": "Internal Audit",
+    "desc": "ICICI Prudential Life Insurance – Internal Audit",
+    "image": "internal_audit",
+    "bg": "https://images.unsplash.com/photo-1534353245168-3c5f94111f4f?auto=format&fit=crop&w=900&q=60",
+    "category": "audit",
+    "links": {
+      "view": "https://www.iciciprulife.com/insurance-plans/view-all-insurance-plans.html"
+    }
+  },
+  {
+    "name": "Forms 15CA/15CB Filing",
+    "desc": "Filing of Forms 15CA‑CB for cross‑border remittances",
+    "image": "forms_15ca_cb",
+    "bg": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?auto=format&fit=crop&w=900&q=60",
+    "category": "filing",
+    "links": {
+      "view": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2021-10/Process%20Document.pdf"
+    }
+  },
+  {
+    "name": "Bank Audit",
+    "desc": "Statutory audit of a nationalized bank",
+    "image": "bank_audit",
+    "bg": "https://images.unsplash.com/photo-1556740772-1a741367b93e?auto=format&fit=crop&w=900&q=60",
+    "category": "audit",
+    "links": {
+      "view": "https://cleartax.in/s/statutory-audit-of-banks"
+    }
+  },
+  {
+    "name": "System Migration Project",
+    "desc": "Finance system migration project at Validus Company",
+    "image": "system_migration",
+    "bg": "https://images.unsplash.com/photo-1526378720059-2bd8d8945981?auto=format&fit=crop&w=900&q=60",
+    "category": "systems",
+    "links": {
+      "view": "https://www.projectline.ca/hubfs/Feature%20Images/ERP-Data-Migration-F-1200x627.png"
+    }
+  },
+  {
+    "name": "ISIN Creation",
+    "desc": "Creating ISIN codes for corporate securities",
+    "image": "isin_creation",
+    "bg": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&w=900&q=60",
+    "category": "isin",
+    "links": {
+      "view": "https://isin.org/"
+    }
+  },
+  {
+    "name": "ICAI IT Training",
+    "desc": "100‑hour Information Technology training programme conducted by ICAI",
+    "image": "it_training_icai",
+    "bg": "https://images.unsplash.com/photo-1556157382-97eda30b14e4?auto=format&fit=crop&w=900&q=60",
+    "category": "training",
+    "links": {
+      "view": "https://www.icai.org/post.html?post_id=16519"
+    }
+  },
+  {
+    "name": "ICAI Orientation Training",
+    "desc": "Orientation Training from the Institute of Chartered Accountants of India",
+    "image": "orientation_training",
+    "bg": "https://images.unsplash.com/photo-1581094796008-06d3acfcb36f?auto=format&fit=crop&w=900&q=60",
+    "category": "training",
+    "links": {
+      "view": "https://www.icai.org/post/5909"
+    }
+  },
+  {
+    "name": "Utilization Certificates",
+    "desc": "Preparation of Utilization Certificates for Government and Skill Training Institute",
+    "image": "utilization_certificates",
+    "bg": "https://images.unsplash.com/photo-1605902711622-cfb43c44367e?auto=format&fit=crop&w=900&q=60",
+    "category": "compliance",
+    "links": {
+      "view": "https://example.com/uc"
+    }
+  },
+  {
+    "name": "Grants & Donations Reconciliation",
+    "desc": "Reconciliation of grants and donations received by organization",
+    "image": "grants_reconciliation",
+    "bg": "https://images.unsplash.com/photo-1620523479185-1f2f6c3dd42d?auto=format&fit=crop&w=900&q=60",
+    "category": "reconciliation",
+    "links": {
+      "view": "https://example.com/grants-reconciliation"
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "name": "TDS Compliances",
+        "icon": "/assets/skills/tax.png"
+    },
+    {
+        "name": "GST Compliances",
+        "icon": "/assets/skills/burden.png"
+    },
+    {
+        "name": "Income Tax  Compliances",
+        "icon": "/assets/skills/corporate.png"
+    },
+    {
+        "name": "Advance Tax",
+        "icon": "/assets/skills/tax_2.png"
+    },
+    {
+        "name": "E-Invoices",
+        "icon": "/assets/skills/invoice.png"
+    },
+    {
+        "name": "Payroll Processing",
+        "icon": "/assets/skills/pay.png"
+    },
+    {
+        "name": "SFT Returns",
+        "icon": "/assets/skills/compensation.png"
+    },
+    {
+        "name": "Book Keeping and Accounting",
+        "icon": "/assets/skills/accounting.png"
+    },
+    {
+        "name": "Data Analysis",
+        "icon": "/assets/skills/monitoring.png"
+        
+    },
+    {
+        "name": "ERP Management",
+        "icon": "/assets/skills/system.png"
+    },
+    {
+        "name": "Forecasting",
+        "icon": "/assets/skills/financial.png"
+    },
+
+    {
+        "name": "TDS on Property",
+        "icon": "/assets/skills/assets.png"
+    }
+    
+]
